@@ -3,3 +3,5 @@
 <p>Yemek sitesi.JS kullanılmıştır.</p>
 
 ![](images/ss.1.png)
+
+![](images/ss.2.png)
