@@ -1,7 +1,8 @@
 <h1>Yemek Sitesi</h1>
 
-<p>Yemek sitesi.JS kullanılmıştır.</p>
+<p>Yemek Sitesi. JS kullanılmıştır.</p>
 
-![](images/ss.1.png)
+<h1>Önizleme</h1>
 
-![](images/ss.2.png)
+![](gif1.gif)
+
